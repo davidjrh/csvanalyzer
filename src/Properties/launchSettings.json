@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CSVAnalyzer": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\tmp\\Sample.csv"
+    }
+  }
+}
